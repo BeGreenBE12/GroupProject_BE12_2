@@ -1,3 +1,5 @@
+*NOTES: Deploy masih mengalami crash*
+
 ---- USER ----
 SignUp :POST | localhost:3000/signup | bagian body diisi API Register
 SignIn :POST | localhost:3000/signin | bagian body diisi API Login
